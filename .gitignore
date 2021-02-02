@@ -1,3 +1,10 @@
+
+# Annoying files
+.DS_Store
+
+# all data
+data
+
 # History files
 .Rhistory
 .Rapp.history
